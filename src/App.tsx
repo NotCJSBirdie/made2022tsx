@@ -1,24 +1,35 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Carousel from "./components/Carousel";
+import Header from "./components/Header";
+import HeroGallery from "./components/HeroGallery";
+import HeroGallery2 from "./components/HeroGallery2";
+import Favorites from "./components/Favorites";
+import Accessories from "./components/Accessories";
+import Instagram from "./components/Instagram";
+import Room from "./components/Room";
+import Tips from "./components/Tips";
+import Ratings from "./components/Ratings";
+import Action from "./components/Action";
+import Newsletter from "./components/Newsletter";
+import Footer from "./components/Footer";
+import Sale from "./components/Sale";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="overflow-hidden">
+      <Sale />
+      <Header />
+      <HeroGallery />
+      <HeroGallery2 />
+      <Favorites />
+      <Accessories />
+      <Instagram />
+      <Room />
+      <Tips />
+      <Ratings />
+      <Action />
+      <Newsletter />
+      <Footer />
     </div>
   );
 }

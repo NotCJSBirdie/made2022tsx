@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+#brand {
+  font-family: "Karla", sans-serif;
+}
+
+#yesevaf {
+  font-family: "Yeseva One", cursive;
+  font-size: 15px;
+}
+
+#montf {
+  font-family: "Montserrat", sans-serif;
+  font-size: 12px;
+}

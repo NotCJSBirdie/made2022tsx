@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+#bedroom {
+  background-image: url("./assets/bedroom.jpg");
+  background-size: cover;
+}
+
+#square1 {
+  background-image: url("./assets/picture1.jpg");
+  background-size: cover;
+}
+
+#square2 {
+  background-image: url("./assets/picture2.jpg");
+  background-size: cover;
+}
+#sale1 {
+  font-size: 40px;
+}
+
+#square3 {
+  background-image: url("./assets/picture3.jpg");
+  background-size: cover;
+}
+
+#square4 {
+  background-image: url("./assets/picture4.jpg");
+  background-size: cover;
+}
+
+#square5 {
+  background-image: url("./assets/picture5.jpg");
+  background-size: cover;
+}
+
+#square6 {
+  background-image: url("./assets/picture6.jpg");
+  background-size: cover;
+}
+
+#square7 {
+  background-image: url("./assets/picture7.jpg");
+  background-size: cover;
+}
+
+#square8 {
+  background-image: url("./assets/picture8.jpg");
+  background-size: cover;
+}
+
+#square9 {
+  background-image: url("./assets/picture9.jpg");
+  background-size: cover;
+}
+
+#square10 {
+  background-image: url("./assets/picture10.jpg");
+  background-size: cover;
+}
+
+#sale1 {
+  font-family: "Karla", sans-serif;
+  font-size: 50px;
+  margin-bottom: 25px;
+}
+
+#dining {
+  font-family: "Yeseva One", cursive;
+}
+
+#limited {
+  font-family: "Montserrat", sans-serif;
+}
+
+#yesevah {
+  font-family: "Yeseva One", cursive;
+  font-size: 30px;
+}
+
+#mont {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  margin-top: 12px;
+}
+
+#lines {
+  font-family: "Karla", sans-serif;
+  font-size: 40px;
+}

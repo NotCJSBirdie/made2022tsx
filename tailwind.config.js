@@ -1,0 +1,25 @@
+module.exports = {
+  content: [
+    "./src/App.tsx",
+    "./src/index.tsx",
+    "./src/components/Header.tsx",
+    "./src/components/HeroGallery.tsx",
+    "./src/components/HeroGallery2.tsx",
+    "./src/components/Favorites.tsx",
+    "./src/components/Carousel.tsx",
+    "./src/components/Accessories.tsx",
+    "./src/components/Instagram.tsx",
+    "./src/components/InstagramCarousel.tsx",
+    "./src/components/Room.tsx",
+    "./src/components/Ratings.tsx",
+    "./src/components/RatingsCarousel.tsx",
+    "./src/components/Action.tsx",
+    "./src/components/Newsletter.tsx",
+    "./src/components/Footer.tsx",
+    "./src/components/Sale.tsx",
+  ],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
